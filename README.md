@@ -1,2 +1,2 @@
 # Iraq
-Code for OCV coverage survey in Iraq
+Code for Iraq OCV coverage survey
