@@ -5,7 +5,7 @@ setwd("//cdc.gov/private/L330/ykf1/New folder/Iraq")
 
 # Loading gplots package
 
-library(gplots) 
+library(gplots)  
 
 #------------------------- Setting up data --------------------------------# 
  
